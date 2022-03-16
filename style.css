@@ -6,7 +6,7 @@ body {
   padding: 0;
 }
 
-
+html { scroll-behavior: smooth;}
 * {
   font-family: "Noto Sans JP", sans-serif;
   outline: none;
@@ -47,4 +47,11 @@ background-image: url(背景.jpg);
 #welcom {
   font-weight: bold;
   font-size:50px;
+}
+.pic img { width: 70%; }
+
+#f 
+{
+  background-color: black;
+  color:white;
 }
