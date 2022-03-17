@@ -55,7 +55,7 @@ background-image: url(背景.jpg);
   background-color: black;
   color:white;
 }
-.f-b img { width: 50%; }
+#f-b img { width: 50%; }
 
 #txt {
   background-color: rgb(166, 243, 185);
