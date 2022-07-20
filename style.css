@@ -50,6 +50,8 @@ background-image: url(背景.jpg);
 }
 .pic img { width: 70%; }
 
+img  { width: 70%; }
+
 #f 
 {
   background-color: black;
