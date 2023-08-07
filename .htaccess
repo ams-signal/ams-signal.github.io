@@ -1,3 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^amss.f5.si/$ [NC]
+RewriteCond %{HTTP_HOST} ^https://amss.f5.si/$ [NC]
 RewriteRule ^(.*)$ https://www.gasukaku.net/amss/$1 [R=301,L]
